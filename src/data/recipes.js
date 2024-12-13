@@ -10,6 +10,7 @@ const recipes = [
             "Mélanger les œufs et le parmesan.",
             "Incorporer le mélange aux pâtes chaudes.",
         ],
+        images: "../../images/spaghetti_carbonara.jpg",
     },
     {
         id: 2,
@@ -21,6 +22,7 @@ const recipes = [
             "Laisser reposer la pâte.",
             "Cuire les crêpes dans une poêle.",
         ],
+        images: "../../images/crepes.jpg",
     },
     {
         id: 3,
@@ -42,6 +44,7 @@ const recipes = [
             "Incorporer les nouilles et ajouter la sauce soja et l'huile de sésame.",
             "Bien mélanger et servir chaud.",
         ],
+        images: "../../images/nouilles.jpg",
     },
     {
         id: 4,
@@ -62,6 +65,7 @@ const recipes = [
             "Ajouter la farine et une pincée de sel, puis mélanger.",
             "Verser la pâte dans un moule et cuire au four à 180°C pendant 20-25 minutes.",
         ],
+        images: "../../images/brownies.jpg",
     },
     {
         id: 5,
@@ -86,6 +90,7 @@ const recipes = [
             "Mélanger la laitue avec la vinaigrette, les croutons, et le parmesan.",
             "Ajouter le poulet grillé tranché sur le dessus.",
         ],
+        images: "../../images/salade.jpg",
     },
     {
         id: 6,
@@ -109,6 +114,7 @@ const recipes = [
             "Laisser mijoter 25-30 minutes, jusqu'à ce que les légumes soient tendres.",
             "Mixer la soupe et assaisonner avec du sel et du poivre.",
         ],
+        images: "../../images/soupe.jpg",
     },
     {
         id: 7,
@@ -131,6 +137,7 @@ const recipes = [
             "Ajouter le lait de coco et laisser mijoter 15 minutes.",
             "Servir chaud avec du riz.",
         ],
+        images: "../../images/poulet.jpg",
     },
     {
         id: 8,
@@ -153,6 +160,7 @@ const recipes = [
             "Répartir les lardons sur la pâte, puis verser le mélange par-dessus.",
             "Cuire au four pendant 30-35 minutes, jusqu'à ce que la quiche soit dorée.",
         ],
+        images: "../../images/quiche.jpg",
     },
     {
         id: 9,
@@ -175,6 +183,7 @@ const recipes = [
             "Alterner une couche de biscuits et une couche de crème, puis saupoudrer de cacao.",
             "Réfrigérer au moins 4 heures avant de servir.",
         ],
+        images: "../../images/tiramisu.jpg",
     },
     {
         id: 10,
@@ -197,6 +206,7 @@ const recipes = [
             "Cuire chaque pancake jusqu'à ce que des bulles se forment, puis retourner.",
             "Servir avec du sirop d'érable, des fruits ou du beurre.",
         ],
+        images: "../../images/pancakes.jpg",
     }
 ];
 export default recipes;
